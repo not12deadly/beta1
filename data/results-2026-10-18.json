@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-18",
+  "checked_at": "2026-10-18T23:02:23+10:00",
+  "scope": "preserved AU thoroughbred races in Formline Site ledger",
+  "total_races": 43,
+  "interim_results": 42,
+  "final_results": 0,
+  "missing_results": 1,
+  "meeting_coverage": {
+    "Horsham": [
+      8,
+      8
+    ],
+    "Moe": [
+      7,
+      7
+    ],
+    "Nowra": [
+      7,
+      7
+    ],
+    "Lismore": [
+      7,
+      7
+    ],
+    "Townsville": [
+      7,
+      8
+    ],
+    "Kalgoorlie": [
+      6,
+      6
+    ]
+  },
+  "unresolved": [
+    "2026-10-18:Townsville:R8"
+  ],
+  "new_provisional_records_readback": 24,
+  "prejump_matched_races": 42,
+  "prejump_matched_forecasts": 139,
+  "final_scored_races": 0,
+  "notice": "Dated snapshot only; not a live connection. Provisional results are not official final scores."
+}
